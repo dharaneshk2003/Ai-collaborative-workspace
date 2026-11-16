@@ -1,27 +1,16 @@
 <div align="center">
 
-<img width="1280" height="720" alt="outpost (1)" src="https://github.com/user-attachments/assets/f7036758-0862-4941-828c-aedace29bbbc" />
 
-# Outpost
+
+# AI-Collaborative-workspace
 
 **An agentic workspace: chat with an AI agent that draws on a canvas and writes docs, while your team works alongside it in real time.**
 
 Built step by step in a YouTube tutorial on the **roadsidecoder** channel.<br />
-## ▶ **Watch the tutorial:** https://youtu.be/vNXrFMSAsOA
+
 
 </div>
 
-## What you'll build
-
-- **An AI agent that works on two surfaces.** Ask for "a database schema, documented" and it draws the ERD on the canvas and writes the spec in the doc. Name a surface ("just the doc") and it sticks to it.
-- **A tldraw canvas** with a custom ERD table shape: editable columns, primary and foreign key badges, and arrows that snap to rows.
-- **A block-based doc** (BlockNote) with real-time collaboration: live cursors and edits merged with Yjs over Supabase Realtime.
-- **Real-time canvas collaboration** with live cursors, via tldraw sync.
-- **Teams with Clerk Organizations:** everyone in an org can open any of its workspaces.
-- **A dashboard** where you describe what you want to plan (typed or by voice) and land in a new workspace with the agent already working.
-- **A kanban board** of workspaces with drag and drop.
-- **Sharing:** public read-only links, plus PDF export of the doc and canvas.
-- **Subscriptions with Clerk Billing:** per-seat team plans, usage tracking and plan limits.
 
 ## Tech stack
 
@@ -46,7 +35,7 @@ Built step by step in a YouTube tutorial on the **roadsidecoder** channel.<br />
 ### 1. Install
 
 ```bash
-git clone <this-repo-url> outpost
+git clone <this-repo-url> Ai-collaborative-workspace
 cd outpost
 npm install
 ```
