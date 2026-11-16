@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 # AI-Collaborative-workspace
 
 **An agentic workspace: chat with an AI agent that draws on a canvas and writes docs, while your team works alongside it in real time.**
